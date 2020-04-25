@@ -1,1 +1,4 @@
 This is master branch text file.
+hogefuga
+fugahoge
+tukareta
